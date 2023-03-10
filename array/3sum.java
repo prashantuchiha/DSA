@@ -6,7 +6,7 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> myList = new ArrayList<>();
       
-
+        
 
 
         int a,b,c;
